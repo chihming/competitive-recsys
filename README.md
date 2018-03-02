@@ -66,6 +66,11 @@ Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSe
   - music ratings, movie ratings, etc.
 - [Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge)
 - [MovieTweetings](https://github.com/sidooms/MovieTweetings)
+- [Foursquare](https://archive.org/details/201309_foursquare_dataset_umn)
+- [Epinions](http://jmcauley.ucsd.edu/data/epinions)
+- [Google Local](http://jmcauley.ucsd.edu/data/googlelocal/)
+  - location, phone number, time, rating, addres, GPS, etc.
+- [CiteUlike-t](http://www.wanghao.in/CDL.htm)
 
 # Open Sources
 - [libFM](http://www.libfm.org/) - Factorization Machine Library
