@@ -3,8 +3,12 @@ A collection of resources for Recommender Systems (RecSys)
 
 # Recommendation Algorithms
 
-- Basic of Recommender System
+- Basic of Recommender Systems
   - [Wikipedia](https://en.wikipedia.org/wiki/Recommender_system)
+- Nearest Neighbor Search
+  - [Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  - [sklearn.neighbors](http://scikit-learn.org/stable/modules/neighbors.html)
+  - [Benchmarks of approximate nearest neighbor libraries](https://github.com/erikbern/ann-benchmarks)
 - Classic Matrix Facotirzation
   - [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
   - [Matrix Factorization Techiques for Recommendaion Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
