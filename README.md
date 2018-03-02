@@ -41,7 +41,7 @@ Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSe
 - Deep Learning
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
   - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
-  - [Collaborative Deep Learning for Recommender Systems](https://dl.acm.org/citation.cfm?id=2783273)
+  - [Collaborative Deep Learning for Recommender Systems](http://www.wanghao.in/CDL.htm)
   - [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://dl.acm.org/citation.cfm?id=2835837)
   - [Collaborative recurrent autoencoder: recommend while learning to fill in the blanks](https://dl.acm.org/citation.cfm?id=3157143)
   - [TensorFlow Wide & Deep Learning](https://www.tensorflow.org/tutorials/wide_and_deep)
