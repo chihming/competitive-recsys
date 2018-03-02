@@ -88,6 +88,10 @@ Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSe
   - [Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 - Normalized Discounted Cumulative Gain (NDCG)
   - [Wikipedia](https://en.wikipedia.org/wiki/Discounted_cumulative_gain)
+- Mean Absolute Error (MAE)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Mean_absolute_error)
+- Root Mean Square Error (RMSE) 
+  - [Wikipedia](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 - Novelty and Diversity
   - [Novelty and Diversity in Top-N Recommendation -- Analysis and Evaluation](https://dl.acm.org/citation.cfm?id=1944341)
 - Beyond accuracy
