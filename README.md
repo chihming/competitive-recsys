@@ -129,5 +129,8 @@ A collection of resources for Recommender Systems (RecSys)
 - RecSys tutorials
 - [Kdd 2014 Tutorial - the recommender problem revisited](https://www.slideshare.net/xamat/kdd-2014-tutorial-the-recommender-problem-revisited)
 
+# Articles
+- [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+
 # Conferences
 - [RecSys – ACM Recommender Systems](https://recsys.acm.org/)
