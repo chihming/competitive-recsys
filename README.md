@@ -40,6 +40,8 @@ A collection of resources for Recommender Systems (RecSys)
   - [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://dl.acm.org/citation.cfm?id=3015834)
 - Network Embedding
   - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
+  - [Item2vec](https://arxiv.org/abs/1603.04259)
+  - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
 - Deep Learning
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
   - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
