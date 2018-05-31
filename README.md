@@ -91,6 +91,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [Rival](http://rival.recommenders.net/) - An open source Java toolkit for recommender system evaluation
 - [TensorRec](https://github.com/jfkirk/tensorrec) - A TensorFlow recommendation algorithm and framework in Python
 - [OpenRec](http://openrec.ai/index.html) - An open-source and modular library for neural network-inspired recommendation algorithms
+- [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 
 # Common Evaluation Metric
 - Precision and Recall
