@@ -75,6 +75,18 @@ A collection of resources for Recommender Systems (RecSys)
 - [Google Local](http://jmcauley.ucsd.edu/data/googlelocal/)
   - location, phone number, time, rating, addres, GPS, etc.
 - [CiteUlike-t](http://www.wanghao.in/CDL.htm)
+- [LibimSeTi](http://www.occamslab.com/petricek/data/)
+- [Scholarly Paper Recommendation Datasets](http://www.comp.nus.edu.sg/~sugiyama/SchPaperRecData.html)
+- [Netflix Prize Data Set](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)
+- [FilmTrust,CiaoDVD](https://www.librec.net/datasets.html)
+- [Chicago Entree](http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data)
+- [Douban](http://socialcomputing.asu.edu/datasets/Douban)
+- [BibSonomy](https://www.kde.cs.uni-kassel.de/bibsonomy/dumps)
+- [Delicious](http://www.dai-labor.de/en/competence_centers/irml/datasets/)
+- [MACLab LJ Datasets](http://mac.citi.sinica.edu.tw/LJ#.Ww_hbFOFNE5)
+- Kaggle::Datasets
+  - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
+  - [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 
 # Open Sources
 - [libFM](http://www.libfm.org/) - Factorization Machine Library
