@@ -42,6 +42,8 @@ A collection of resources for Recommender Systems (RecSys)
   - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
   - [Item2vec](https://arxiv.org/abs/1603.04259)
   - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
+- Translation Embedding
+  - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
 - Deep Learning
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
   - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
@@ -83,6 +85,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [Douban](http://socialcomputing.asu.edu/datasets/Douban)
 - [BibSonomy](https://www.kde.cs.uni-kassel.de/bibsonomy/dumps)
 - [Delicious](http://www.dai-labor.de/en/competence_centers/irml/datasets/)
+- [Foursquare](https://archive.org/details/201309_foursquare_dataset_umn)
 - [MACLab LJ Datasets](http://mac.citi.sinica.edu.tw/LJ#.Ww_hbFOFNE5)
 - Kaggle::Datasets
   - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
