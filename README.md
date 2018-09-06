@@ -52,6 +52,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [Collaborative recurrent autoencoder: recommend while learning to fill in the blanks](https://dl.acm.org/citation.cfm?id=3157143)
   - [TensorFlow Wide & Deep Learning](https://www.tensorflow.org/tutorials/wide_and_deep)
   - [Deep Neural Networks for YouTube Recommendations](https://research.google.com/pubs/pub45530.html)
+  - [Collaborative Memory Network for Recommendation Systems](https://arxiv.org/abs/1804.10862)
 
 # Public Available Datasets
 - [GroupLens](https://grouplens.org/)
