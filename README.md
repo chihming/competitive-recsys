@@ -38,6 +38,9 @@ A collection of resources for Recommender Systems (RecSys)
   - [Top-1 Feedback](http://proceedings.mlr.press/v38/chaudhuri15.pdf)
   - [k-order statistic loss](http://www.ee.columbia.edu/~ronw/pubs/recsys2013-kaos.pdf)
   - [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://dl.acm.org/citation.cfm?id=3015834)
+- Cold-start
+  - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
+  - [DropoutNet: Addressing Cold Start in Recommender Systems](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
 - Network Embedding
   - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
   - [Item2vec](https://arxiv.org/abs/1603.04259)
@@ -45,6 +48,7 @@ A collection of resources for Recommender Systems (RecSys)
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
 - Deep Learning
+  - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
   - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
   - [Collaborative Deep Learning for Recommender Systems](http://www.wanghao.in/CDL.htm)
