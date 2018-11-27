@@ -112,6 +112,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [TensorRec](https://github.com/jfkirk/tensorrec) - A TensorFlow recommendation algorithm and framework in Python
 - [OpenRec](http://openrec.ai/index.html) - An open-source and modular library for neural network-inspired recommendation algorithms
 - [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
+- [Recoder](https://github.com/amoussawi/recoder) - Large scale training of factorization models for Collaborative Filtering with PyTorch.
 
 # Common Evaluation Metric
 - Precision and Recall
