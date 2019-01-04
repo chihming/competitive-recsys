@@ -38,6 +38,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [Top-1 Feedback](http://proceedings.mlr.press/v38/chaudhuri15.pdf)
   - [k-order statistic loss](http://www.ee.columbia.edu/~ronw/pubs/recsys2013-kaos.pdf)
   - [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://dl.acm.org/citation.cfm?id=3015834)
+  - [The LambdaLoss Framework for Ranking Metric Optimization](https://dl.acm.org/citation.cfm?id=3271784)
 - Cold-start
   - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
   - [DropoutNet: Addressing Cold Start in Recommender Systems](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
@@ -113,6 +114,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [OpenRec](http://openrec.ai/index.html) - An open-source and modular library for neural network-inspired recommendation algorithms
 - [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 - [Recoder](https://github.com/amoussawi/recoder) - Large scale training of factorization models for Collaborative Filtering with PyTorch.
+- [Ranking](https://github.com/tensorflow/ranking) - TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform.
 
 # Common Evaluation Metric
 - Precision and Recall
