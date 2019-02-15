@@ -60,6 +60,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [Collaborative Memory Network for Recommendation Systems](https://arxiv.org/abs/1804.10862)
 
 # Public Available Datasets
+- [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 - [GroupLens](https://grouplens.org/)
   - [MovieLens](https://grouplens.org/datasets/movielens/)
   - [HetRec2011](https://grouplens.org/datasets/hetrec-2011/)
