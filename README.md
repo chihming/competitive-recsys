@@ -46,6 +46,8 @@ A collection of resources for Recommender Systems (RecSys)
   - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
   - [Item2vec](https://arxiv.org/abs/1603.04259)
   - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
+- Sequential-based
+  - [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939)
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
 - Deep Learning
