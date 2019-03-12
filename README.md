@@ -95,6 +95,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [BibSonomy](https://www.kde.cs.uni-kassel.de/bibsonomy/dumps)
 - [Delicious](http://www.dai-labor.de/en/competence_centers/irml/datasets/)
 - [Foursquare](https://archive.org/details/201309_foursquare_dataset_umn)
+- [SmartMedia Adressa News Dataset](http://reclab.idi.ntnu.no/dataset/?fbclid=IwAR22dSZ_b3xMOypDGKFYCR6dkIPIADi70x09dYHU0IyV3pUX56B1foYjvIw)
 - [MACLab LJ Datasets](http://mac.citi.sinica.edu.tw/LJ#.Ww_hbFOFNE5)
 - Kaggle::Datasets
   - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
