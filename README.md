@@ -164,6 +164,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [2015](https://recsys.acm.org/recsys15/tutorials/)
   - [2016](https://recsys.acm.org/recsys16/tutorials/)
   - [2017](https://recsys.acm.org/recsys17/tutorials/)
+  - [2018](https://recsys.acm.org/recsys18/tutorials/)
 - [Kdd 2014 Tutorial - the recommender problem revisited](https://www.slideshare.net/xamat/kdd-2014-tutorial-the-recommender-problem-revisited)
 
 # Articles
