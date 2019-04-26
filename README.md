@@ -47,9 +47,11 @@ A collection of resources for Recommender Systems (RecSys)
   - [Item2vec](https://arxiv.org/abs/1603.04259)
   - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
 - Sequential-based
+  - [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://dl.acm.org/citation.cfm?id=1772773)
   - [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939)
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
+  - [Translation-based Factorization Machines for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3240356)
 - Deep Learning
   - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
