@@ -62,6 +62,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [TensorFlow Wide & Deep Learning](https://www.tensorflow.org/tutorials/wide_and_deep)
   - [Deep Neural Networks for YouTube Recommendations](https://research.google.com/pubs/pub45530.html)
   - [Collaborative Memory Network for Recommendation Systems](https://arxiv.org/abs/1804.10862)
+  - [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3186150)
 
 # Public Available Datasets
 - [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
