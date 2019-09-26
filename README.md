@@ -147,6 +147,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [Recommendation and Ratings Public Data Sets For Machine Learning](https://gist.github.com/entaroadun/1653794)
 - [RecommenderSystem-Paper](https://github.com/daicoolb/RecommenderSystem-Paper)
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
+- [knowledge graph, user-item profile, recommendation system](https://github.com/BaeSeulki/WhySoMuch)
 
 # Textbooks
 - [Programming Collective Intelligence](http://shop.oreilly.com/product/9780596529321.do)
