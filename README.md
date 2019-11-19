@@ -103,6 +103,7 @@ A collection of resources for Recommender Systems (RecSys)
 - Kaggle::Datasets
   - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games/data)
   - [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
+- [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home?authuser=0)
 
 # Open Sources
 - [libFM](http://www.libfm.org/) - Factorization Machine Library
