@@ -52,6 +52,11 @@ A collection of resources for Recommender Systems (RecSys)
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
   - [Translation-based Factorization Machines for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3240356)
+- Knowledge-Graph-based
+  - [Collaborative knowledge base embedding for recommender systems](https://dl.acm.org/doi/10.1145/2939672.2939673)
+  - [Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/citation.cfm?id=3313417)
+  - [KGAT: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/authorize.cfm?key=N688414)
+  - [Ripplenet: Propagating user preferences on the knowledge graph for recommender systems](https://dl.acm.org/doi/10.1145/3269206.3271739)
 - Deep Learning
   - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
