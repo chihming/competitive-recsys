@@ -52,6 +52,9 @@ A collection of resources for Recommender Systems (RecSys)
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
   - [Translation-based Factorization Machines for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3240356)
+- Graph-Convolution-based
+  - [GraphSAGE: Inductive Representation Learning on Large Graphs](https://dl.acm.org/doi/10.5555/3294771.3294869)
+  - [PinSage: Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
 - Knowledge-Graph-based
   - [Collaborative knowledge base embedding for recommender systems](https://dl.acm.org/doi/10.1145/2939672.2939673)
   - [Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/citation.cfm?id=3313417)
