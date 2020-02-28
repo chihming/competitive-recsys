@@ -59,7 +59,16 @@ A collection of resources for Recommender Systems (RecSys)
   - [Collaborative knowledge base embedding for recommender systems](https://dl.acm.org/doi/10.1145/2939672.2939673)
   - [Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/citation.cfm?id=3313417)
   - [KGAT: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/authorize.cfm?key=N688414)
+  - [Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
   - [Ripplenet: Propagating user preferences on the knowledge graph for recommender systems](https://dl.acm.org/doi/10.1145/3269206.3271739)
+- Rating-Prediction-based
+  - [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/doi/10.1145/3018661.3018665)
+  - [Neural Attentional Rating Regression with Review-level Explanations](http://www.thuir.cn/group/~YQLiu/publications/WWW2018_CC.pdf)
+  - [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)
+  - [A Context-Aware User-Item Representation Learning for Item Recommendation](https://dl.acm.org/doi/10.1145/3298988)
+  - [DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation](https://dl.acm.org/doi/10.1145/3292500.3330906)
+  - [Collaborative Variational Autoencoder for Recommender Systems](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)
+  - [Gated Attentive-Autoencoder for Content-Aware Recommendation](https://arxiv.org/pdf/1812.02869.pdf)
 - Deep Learning
   - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
@@ -71,6 +80,8 @@ A collection of resources for Recommender Systems (RecSys)
   - [Deep Neural Networks for YouTube Recommendations](https://research.google.com/pubs/pub45530.html)
   - [Collaborative Memory Network for Recommendation Systems](https://arxiv.org/abs/1804.10862)
   - [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3186150)
+  - [Neural Graph Collaborative Filtering](https://dl.acm.org/doi/10.1145/3331184.3331267)
+
 
 # Public Available Datasets
 - [Recommender Systems Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
