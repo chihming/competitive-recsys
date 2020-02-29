@@ -46,6 +46,7 @@ A collection of resources for Recommender Systems (RecSys)
   - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
   - [Item2vec](https://arxiv.org/abs/1603.04259)
   - [entity2rec](https://dl.acm.org/citation.cfm?id=3109889)
+  - [Collaborative Similarity Embedding for Recommender Systems](https://dl.acm.org/doi/10.1145/3308558.3313493)
 - Sequential-based
   - [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://dl.acm.org/citation.cfm?id=1772773)
   - [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939)
