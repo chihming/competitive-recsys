@@ -141,6 +141,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 - [Recoder](https://github.com/amoussawi/recoder) - Large scale training of factorization models for Collaborative Filtering with PyTorch.
 - [Ranking](https://github.com/tensorflow/ranking) - TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform.
+- [RecNN](https://github.com/awarebayes/RecNN) - Reinforced Recommendation toolkit build around pytorch 1.4
 
 # Common Evaluation Metric
 - Precision and Recall
@@ -194,6 +195,7 @@ A collection of resources for Recommender Systems (RecSys)
 
 # Articles
 - [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+-[Introduction to Reinforcement Learning for News Recommendation](https://towardsdatascience.com/reinforcement-learning-ddpg-and-td3-for-news-recommendation-d3cddec26011)
 
 # Conferences
 - [RecSys – ACM Recommender Systems](https://recsys.acm.org/)
