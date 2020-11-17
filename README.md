@@ -56,6 +56,7 @@ A collection of resources for Recommender Systems (RecSys)
 - Graph-Convolution-based
   - [GraphSAGE: Inductive Representation Learning on Large Graphs](https://dl.acm.org/doi/10.5555/3294771.3294869)
   - [PinSage: Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
+  - [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/abs/2002.02126)
 - Knowledge-Graph-based
   - [Collaborative knowledge base embedding for recommender systems](https://dl.acm.org/doi/10.1145/2939672.2939673)
   - [Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/citation.cfm?id=3313417)
