@@ -142,6 +142,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [Recoder](https://github.com/amoussawi/recoder) - Large scale training of factorization models for Collaborative Filtering with PyTorch.
 - [Ranking](https://github.com/tensorflow/ranking) - TensorFlow Ranking is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform.
 - [RecNN](https://github.com/awarebayes/RecNN) - Reinforced Recommendation toolkit build around pytorch 1.4
+- [recommenders](https://github.com/microsoft/recommenders) - This repository contains examples and best practices for building recommendation systems.
 
 # Common Evaluation Metric
 - Precision and Recall
