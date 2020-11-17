@@ -183,6 +183,7 @@ A collection of resources for Recommender Systems (RecSys)
 - [Kaggle](https://www.kaggle.com/) - product recommendations, hotel recommendations, job recommendations, etc.
 - ACM RecSys Challenge
 - [WSDM Cup 2018](https://wsdm-cup-2018.kkbox.events/)
+- [KDD Cup 2020 Challenges](https://tianchi.aliyun.com/competition/entrance/231785/introduction)
 - [Million Song Dataset Challenge](https://www.kaggle.com/c/msdchallenge)
 - [Netflix Prize](https://www.netflixprize.com/)
 
