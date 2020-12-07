@@ -171,7 +171,6 @@ A collection of resources for Recommender Systems (RecSys)
 - [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 - [knowledge graph, user-item profile, recommendation system](https://github.com/BaeSeulki/WhySoMuch)
 - [Must-read Papers on Recommendation System and CTR Prediction](https://github.com/imsheridan/DeepRec)
-- [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 
 # Textbooks
 - [Programming Collective Intelligence](http://shop.oreilly.com/product/9780596529321.do)
