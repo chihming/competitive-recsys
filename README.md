@@ -69,6 +69,9 @@ A collection of resources for Recommender Systems (RecSys)
   - [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)
   - [A Context-Aware User-Item Representation Learning for Item Recommendation](https://dl.acm.org/doi/10.1145/3298988)
   - [DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation](https://dl.acm.org/doi/10.1145/3292500.3330906)
+- Muti-task Learning
+  - [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)
+  - [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/abs/10.1145/3383313.3412236)
 - Deep Learning
   - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
