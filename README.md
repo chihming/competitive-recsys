@@ -49,7 +49,16 @@ A collection of resources for Recommender Systems (RecSys)
   - [Collaborative Similarity Embedding for Recommender Systems](https://dl.acm.org/doi/10.1145/3308558.3313493)
 - Sequential-based
   - [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://dl.acm.org/citation.cfm?id=1772773)
+  - [Learning Hierarchical Representation Model for NextBasket Recommendation]
+  - [Fusing Similarity Models with Markov Chains for Sparse Sequential Recommendation]
   - [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/abs/1511.06939)
+  - [Self-Attentive Sequential Recommendation]
+  - [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer]
+  - [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization]
+  - [Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation]
+- CapsNet-based
+  - [Multi-Interest Network with Dynamic Routing for Recommendation at Tmall]
+  - [Controllable Multi-Interest Framework for Recommendation]
 - Translation Embedding
   - [Translation-based Recommendation](https://dl.acm.org/citation.cfm?id=3109882)
   - [Translation-based Factorization Machines for Sequential Recommendation](https://dl.acm.org/citation.cfm?id=3240356)
