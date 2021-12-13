@@ -81,7 +81,7 @@ A collection of resources for Recommender Systems (RecSys)
 - Muti-task Learning
   - [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)
   - [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/abs/10.1145/3383313.3412236)
-- Deep Learning
+- Deep Learning (early DL research)
   - [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
   - [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
   - [Neural Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3052569)
